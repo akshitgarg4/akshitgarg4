@@ -3,8 +3,8 @@
 
 
 
-  <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?theme=onedark&username=akshitgarg4&show_icons=true&line_height=27&count_private=true&include_all_commits=true" alt="Akshit's GitHub stats"/>
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=onedark&username=akshitgarg4&show_icons=true&line_height=27&langs_count=8&count_private=true&hide=Jupyter%20Notebook&layout=compact" alt="Akshit's language stats"/>
+  <img align="left" height="140px" src="https://github-readme-stats.vercel.app/api?theme=onedark&username=akshitgarg4&show_icons=true&line_height=27&count_private=true&include_all_commits=true" alt="Akshit's GitHub stats"/>
+  <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=onedark&username=akshitgarg4&show_icons=true&line_height=27&langs_count=8&count_private=true&hide=Jupyter%20Notebook&layout=compact" alt="Akshit's language stats"/>
   
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=akshitgarg4.akshitgarg4)
  
